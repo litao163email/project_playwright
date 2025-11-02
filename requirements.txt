@@ -1,0 +1,6 @@
+pytest>=7.4.0
+pytest-playwright>=0.3.3
+playwright>=1.30.0
+pytest-html>=3.2.0
+pytest-asyncio>=0.21.0
+
