@@ -40,6 +40,9 @@ playwright-report/
 test-results/
 report.html
 
+# Allure
+test_report/
+
 # IDE
 .vscode/
 .idea/
